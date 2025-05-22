@@ -1,1 +1,23 @@
-![2025-Tourism-Data-Utilization-Contest](https://github.com/user-attachments/assets/c3eda1a0-cac2-4458-b9bd-498207b916c2)
+<h2 align="center">🌾 구황작물(救荒作物) | Emergency-Crop</h2>
+
+<p align="center">
+  안녕하세요. 구황작물 팀계정에 오신 것을 환영합니다.😊<br/>
+  공모전·경진대회 등 SW 개발 중심의 활동에 관심을 가지고 도전하고 있습니다.
+</p>
+
+
+## 🎯 활동 소개
+
+| 연도 | 대표 이미지 | 공모전명 | 주최/주관 | 주요 내용 | 
+|------|----------|------------|-----------|-----------|
+| 2025 | <img src="https://github.com/user-attachments/assets/c3eda1a0-cac2-4458-b9bd-498207b916c2" alt="2025 공모전" width="120"/> | [2025 관광데이터 활용 공모전](https://www.2025tourapi.com) | 한국관광공사, KAKAO | 공사 TourAPI, 카카오 OpenAPI 및 각종 공공데이터 API를 활용하여 신규/융복합 관광서비스 개발 | 
+
+> ✅ 해당 공모전에서의 결과 및 진행 내용은 각 리포지토리에서 확인하실 수 있습니다.
+
+
+## 📂 활동별 레포지토리 바로가기
+
+| 공모전명 | 구분 | 레포지토리 링크 | 
+|----------|------------------|------|
+| 2025 관광데이터 활용 공모전 | MIND 벡엔드 | [🔗 바로가기](https://github.com/Emergency-Crop/MIND-Server) | 
+
